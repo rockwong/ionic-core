@@ -1,4 +1,4 @@
-# fork form @ionic/core@5.3.2
+# fork from @ionic/core@5.3.2
 
 fix pickRange  Overlapping bugs  by Rock
 
