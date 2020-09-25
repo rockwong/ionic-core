@@ -1,3 +1,7 @@
+# fork form @ionic/core@5.3.2
+
+fix pickRange  Overlapping bugs  by Rock
+
 # @ionic/core
 
 [Ionic](https://ionicframework.com/) is an open source App Development Framework that makes it easy to build top quality Native and Progressive Web Apps with web technologies.
